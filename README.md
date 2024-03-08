@@ -160,32 +160,35 @@ LIMIT 5
 
 </details>
 
-![Image Alt text](/assets/data_mart_design.png)
-<p align="center">Fig.1. Data Mart Design</p>
+<p align="center">
+  <img src="/assets/data_mart_design.png">
+  <br>Fig.1. Data Mart Design</br>
+  
+  <img src="/assets/aggregate_table1.png">
+  <br>Fig.2. Aggregate Table 1 (Pendapatan Pertahun)</br>
 
-![Image Alt text](/assets/aggregate_table1.png)\
-Fig.2. Aggregate Table 1 (Pendapatan Pertahun)
+  <img src="assets/aggregate_table2.png">
+  <br>Fig.3. Aggregate Table 2 (Total Transaksi Provinsi)</br>
 
-![Image Alt text](assets/aggregate_table2.png)\
-Fig.3. Aggregate Table 2 (Total Transaksi Provinsi)
+  <img src="assets/aggregate_table3.png">
+  <br>Fig.4. Aggregate Table 3 (Nett Sales Provinsi)</br>
 
-![Image Alt text](assets/aggregate_table3.png)\
-Fig.4. Aggregate Table 3 (Nett Sales Provinsi)
+  <img src="assets/aggregate_table4.png">
+  <br>Fig.5. Aggregate Table 4 (Total Profit Provinsi)</br>
 
-![Image Alt text](assets/aggregate_table4.png)\
-Fig.5. Aggregate Table 4 (Total Profit Provinsi)
+  <img src="assets/aggregate_table5.png">
+  <br>Fig.6. Aggregate Table 5 (Jumlah Transaksi Customer)</br>
 
-![Image Alt text](assets/aggregate_table5.png)\
-Fig.6. Aggregate Table 5 (Jumlah Transaksi Customer)
-
-![Image Alt text](assets/aggregate_table6.png)\
-Fig.7. Aggregate Table 6 (Cabang Rating Tertinggi Namun Rating Transaksi Rendah)
+  <img src="assets/aggregate_table6.png">
+  <br>Fig.7. Aggregate Table 6 (Cabang Rating Tertinggi Namun Rating Transaksi Rendah)</br>
+  
+</p>
 
 ## Task 03 : Dashboard Design
 After designing a Data Mart or table analysis from the dataset provided, I created a Kimia Farma Performance Analysis Dashboard from 2020-2023 based on the aggregate table created previously. For Interactive Dashboard please click [this link](https://lookerstudio.google.com/reporting/63e3c832-aafe-43b7-9ef2-87f01d765f55)
 
 ![Image Alt text](assets/dashboard.jpg)
-<p align="center">Fig.7. [Kimia Farma Performance Analytics Dashboard](https://lookerstudio.google.com/reporting/63e3c832-aafe-43b7-9ef2-87f01d765f55)</p>
+<p align="center">Fig.7. Kimia Farma Performance Analytics Dashboard
 
 From the dashboard, some insights can be seen as follows :
 - There was a significant increase in income in 2022 by 68% from 31 provincial branches, with total transactions in 2022 of around 168 thousand, especially in the West Java provincial branch with the highest total income and transactions.
